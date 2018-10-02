@@ -23,9 +23,9 @@ from PIL import Image, ImageDraw
 #Knobs and Dials
 #-------------------------------------------------------------------------------------------------
 POP_PER_GENERATION = 50
-MUTATION_CHANCE = 0.1
-ADD_GENE_CHANCE = 0.6
-REM_GENE_CHANCE = 0.4
+MUTATION_CHANCE = 0.01
+ADD_GENE_CHANCE = 0.3
+REM_GENE_CHANCE = 0.2
 INITIAL_GENES = 50
 
 #How often to output images and save files
